@@ -1,0 +1,17 @@
+{
+  "name": "sigma-atlas-bundle",
+  "private": true,
+  "description": "Browser runtime of this Sigma fork for Regulatory Atlas: Sigma, graphology and the Atlas programs in one IIFE.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "events": "3.3.0",
+    "graphology": "0.26.0",
+    "graphology-types": "0.24.8",
+    "graphology-utils": "2.5.2"
+  }
+}
