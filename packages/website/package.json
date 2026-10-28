@@ -24,7 +24,7 @@
     "@sigma/node-image": "*",
     "@sigma/node-piechart": "*",
     "@sigma/utils": "*",
-    "astro": "^5",
+    "astro": "^7",
     "astro-icon": "^1",
     "graphology": "^0.26.0",
     "graphology-communities-louvain": "^2.0.2",
